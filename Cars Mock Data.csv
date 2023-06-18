@@ -1,0 +1,50 @@
+﻿Make,Model,Nickname,Buyer Gender,Buyer Age,Buzzword,Color,Purchase Date,Sale Price,Discount,Resell Price,5-yr Depreciation,Top Speed,0-60 Time,Free Addons,Sale,Fuel,Body,Drive,Engine Size,Bhp,Doors
+Suzuki,Vitara,Philippine,Female,51,User-friendly,Yellow,19-07-2009,54806.14,24.67,33858.32,0.13,200.9,11.5,YES,TRUE,Petrol,SUV,RWD,1.5,91.18,5
+Honda,S2000,Henrik,Male,30,analyzing,Crimson,26-10-2015,51826.3,31.47,2989.28,0.02,158.5,8.8,YES,TRUE,Petrol,Roadster,RWD,2,237,2
+BMW,Z4,Lebbie,Female,54,software,Khaki,28-03-2010,82929.14,54.14,35049.16,0.24,149.5,14.4,YES,TRUE,Petrol,Convertible,RWD,3,335,2
+Toyota,Tacoma,Jefferey,Male,68,monitoring,Puce,07-05-2008,56928.66,8.5,8236.15,0.2,153.3,11.5,NO,FALSE,Petrol,Pickup truck,AWD,2.7,159,2
+Ford,Festiva,Glendon,Male,70,Sharable,Yellow,01-06-2008,77201.26,16.42,32765.76,0.18,122,14.9,YES,TRUE,Petrol,Hatchback,RWD,1.3,197,3
+Buick,Skylark,Glad,Female,70,Vision-oriented,Crimson,17-05-2007,50882.23,69.13,38576.59,0.16,182.7,9.6,NO,TRUE,Petrol,Coupe,RWD,3,125,2
+Infiniti,QX,Bud,Male,66,throughput,Fuscia,11-08-2017,69680.54,16.57,27962.25,0.18,231.8,5.3,YES,TRUE,Diesel,SUV,AWD,5.6,320,5
+Ram,C/V,Geoffrey,Male,37,circuit,Aquamarine,23-11-2007,56393.91,10.06,29157.95,0.14,144.1,4.7,NO,TRUE,Petrol,Van,AWD,3.6,283,3
+GMC,Safari,Marius,Male,43,bottom-line,Mauv,16-03-2003,13797.81,21.26,4740.87,0.01,223.3,5.8,NO,TRUE,Petrol,Van,AWD,4.3,194,4
+Nissan,Altima,Vi,Female,73,Grass-roots,Puce,19-05-2019,15176.04,19.22,5892.79,0.12,170.4,14.1,NO,FALSE,Petrol,Coupe,RWD,2.5,188,2
+Toyota,Previa,Winni,Female,67,Horizontal,Violet,02-03-2004,18844.12,16.51,4740.87,0.05,135.4,8.9,YES,TRUE,Petrol,Minivan,RWD,2.4,156,4
+Scion,xB,Arlie,Female,29,contingency,Green,09-09-2008,95681.78,55.07,16358.27,0.08,136.4,4.1,NO,TRUE,Petrol,hatchback,RWD,2.4,158,5
+Porsche,928,Celesta,Female,37,discrete,Fuscia,26-01-2020,90954.5,12.37,40650.31,0.1,213.9,2.5,YES,FALSE,Petrol,hatchback,RWD,5.4,306,2
+Lexus,HS,Rey,Male,43,groupware,Turquoise,28-06-2014,46666.83,69.37,33634.37,0.08,134.1,14.4,NO,FALSE,Petrol,Sedan,RWD,4,250,4
+GMC,Yukon,Nevil,Male,41,Total,Teal,06-10-2020,11280,23.96,9279.51,0.08,248.7,7.3,YES,TRUE,Petrol,SUV,AWD,6.2,355,5
+Mitsubishi,Mirage,Hasty,Male,21,zero administration,Indigo,14-04-2011,23110.07,33.85,17916.47,0.04,145.4,9.8,NO,TRUE,Petrol,Hatchback,FWD,1.5,92,4
+Dodge,Viper,Bernhard,Male,57,transitional,Teal,17-10-2004,77346.39,60.78,32280.44,0.18,159.8,8.2,NO,TRUE,Petrol,Coupe,RWD,8.4,645,2
+Mazda,B2500,Tonie,Female,54,superstructure,Crimson,27-09-2002,75346.39,28.92,20175.47,0.04,185.6,9.2,NO,FALSE,Petrol,Pickup,AWD,2.5,91,2
+Land Rover,LR3,Haskel,Male,37,Open-architected,Aquamarine,28-09-2015,84151.25,13.75,69656.3,0.05,120.6,8.8,NO,TRUE,Diesel,Estate,AWD,4,190,5
+Isuzu,Space,Lynette,Female,34,Grass-roots,Green,20-10-2009,97058.87,16.23,21985.35,0.21,136.6,8.5,NO,FALSE,Petrol,SUV,RWD,1.5,91.18,5
+Acura,TL,Libbie,Female,43,bandwidth-monitored,Red,15-05-2005,74986.42,6.37,41655.99,0.02,190,6.7,YES,TRUE,Petrol,Roadster,RWD,2,237,2
+Pontiac,Bonneville,Quinta,Female,56,didactic,Indigo,22-05-2003,63314.15,33.76,36647.24,0.09,175.4,12.1,NO,FALSE,Petrol,Convertible,RWD,3,335,2
+Dodge,Dakota Club,Guglielmo,Male,53,incremental,Yellow,29-04-2007,17520.81,48.11,11681.6,0.24,143.7,13,NO,TRUE,Petrol,Pickup truck,AWD,2.7,159,2
+Audi,Cabriolet,Rosalie,Female,55,matrices,Puce,23-07-2008,18734,24.09,5938.36,0.02,155,10,NO,FALSE,Petrol,Hatchback,RWD,1.3,197,3
+Pontiac,Sunfire,Joshuah,Male,32,workforce,Maroon,21-01-2020,21000,10,16000,0.17,126.2,12,NO,TRUE,Petrol,Coupe,RWD,3,125,2
+Citroën,2CV,Ulrick,Male,37,Pre-emptive,Green,23-12-2018,24000,12,18000,0.06,140,11,YES,TRUE,Diesel,SUV,AWD,5.6,320,5
+Ford,Tempo,Geri,Male,33,Horizontal,Pink,07-11-2008,22000,11,17000,0.12,143,10,NO,FALSE,Petrol,Van,AWD,3.6,283,3
+Buick,LeSabre,Trey,Male,47,Object-based,Puce,26-01-2006,16281.78,29.86,6000,0.03,148,8.7,YES,FALSE,Petrol,Van,AWD,4.3,194,4
+Saab,9-2X,Bat,Male,67,Innovative,Pink,26-02-2019,19305.5,39.88,11753.2,0.24,120.3,8.2,NO,FALSE,Petrol,Coupe,RWD,2.5,188,2
+Buick,Skylark,Clarette,Female,57,bottom-line,Pink,05-04-2020,57747.61,19.35,31158.31,0.01,220.2,6.8,YES,TRUE,Petrol,Minivan,RWD,2.4,156,4
+Ford,Escape,Carter,Male,42,5th generation,Crimson,27-09-2002,56105.94,51.92,48912.1,0.13,205.3,4.2,NO,TRUE,Petrol,hatchback,RWD,2.4,158,5
+Mercury,Sable,Vale,Female,66,Open-architected,Orange,03-12-2006,54543.15,65.49,39275.37,0.22,185.2,5.8,NO,FALSE,Petrol,hatchback,RWD,5.4,306,2
+Plymouth,Colt,Brigid,Female,67,circuit,Teal,05-09-2003,98635.22,68.22,12622.44,0.12,130.6,3.5,YES,FALSE,Petrol,Sedan,RWD,4,250,4
+Infiniti,G,Colline,Female,68,Realigned,Goldenrod,16-11-2014,14908.65,9.43,6991.92,0.23,140.7,11.9,YES,TRUE,Petrol,SUV,AWD,6.2,355,5
+Maserati,Spyder,Gray,Female,65,open system,Violet,10-05-2005,98249.11,41.14,42102.6,0.1,208.9,3.3,NO,FALSE,Petrol,Hatchback,FWD,1.5,92,4
+Buick,Riviera,Lezlie,Female,49,Up-sized,Indigo,03-09-2003,18698.98,15.22,9681.18,0.22,130,9,YES,TRUE,Petrol,Coupe,RWD,8.4,645,2
+Cadillac,Seville,Sal,Male,52,task-force,Turquoise,07-07-2008,31017.64,11.39,11061.65,0.18,132.6,12.7,YES,TRUE,Petrol,Pickup,AWD,2.5,91,2
+Buick,Century,Keary,Male,75,infrastructure,Turquoise,01-04-2004,32002.48,27.72,23777.88,0.02,224.7,5.8,NO,FALSE,Diesel,Estate,AWD,4,190,5
+Scion,iQ,Hurleigh,Male,48,secured line,Teal,10-03-2011,74486.44,45.16,12498.33,0.2,177.8,12.7,NO,FALSE,Petrol,SUV,RWD,1.5,91.18,5
+BMW,7 Series,Ewell,Male,29,Operative,Teal,07-08-2015,89823.58,37.65,32386.28,0.07,160.8,6.9,NO,TRUE,Petrol,Roadster,RWD,2,237,2
+Chevrolet,Camaro,Raynor,Male,49,Open-source,Maroon,19-11-2005,33074.12,39.42,25108.18,0.12,138.3,8.2,NO,TRUE,Petrol,Convertible,RWD,3,335,2
+Subaru,Outback,Shoshana,Female,72,User-centric,Yellow,23-10-2013,71250.14,28.33,46427.16,0.23,193.4,8,YES,FALSE,Petrol,Pickup truck,AWD,2.7,159,2
+Mercedes-Benz,C-Class,Jeanna,Female,23,circuit,Purple,22-03-2016,17346.3,16.51,5127.97,0.13,127.5,12,NO,FALSE,Petrol,Hatchback,RWD,1.3,197,3
+Mercedes-Benz,Sprinter 3500,Rori,Female,28,adapter,Green,24-10-2008,17223.27,13.52,9532.58,0.22,136.5,14.9,NO,FALSE,Petrol,Coupe,RWD,3,125,2
+Chevrolet,Suburban 1500,Cirstoforo,Male,36,Profit-focused,Pink,18-03-2009,10490.64,44.48,4590.68,0.22,230.7,12,NO,TRUE,Diesel,SUV,AWD,5.6,320,5
+Volkswagen,Cabriolet,Dorita,Female,22,secondary,Fuscia,30-04-2016,62673.34,29.07,30736.63,0.11,195.4,7.6,YES,TRUE,Petrol,Van,AWD,3.6,283,3
+Ford,E-Series,Halie,Female,40,Synergistic,Indigo,11-03-2014,62673.34,29.07,23459.97,0.06,213,7.4,NO,FALSE,Petrol,Van,AWD,4.3,194,4
+Pontiac,Bonneville,Welsh,Male,20,Right-sized,Goldenrod,09-08-2011,30807.01,19.02,5822.22,0.06,170,4.8,NO,TRUE,Petrol,Coupe,RWD,2.5,188,2
+Volvo,XC70,Lovell,Male,48,analyzer,Orange,11-10-2017,83931.45,55.8,33976.28,0.07,125.2,9.7,YES,TRUE,Petrol,Minivan,RWD,2.4,156,4
